@@ -1,4 +1,4 @@
-# week01_20160919
+# week01_20160919 [![Build Status](https://travis-ci.org/csie-asia/week01-20160919-ChadCYB.svg?branch=master)](https://travis-ci.org/csie-asia/week01-20160919-ChadCYB)
 
 #### 課堂練習題目:  
 
