@@ -1,5 +1,4 @@
 language: java
 script:
-  - ant main
-  - java main < data.txt
   - ant main < data.txt
+  - java main < data.txt
