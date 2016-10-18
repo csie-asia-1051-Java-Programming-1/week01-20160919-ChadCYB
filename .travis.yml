@@ -1,8 +1,7 @@
 language: java
 script:
-  - javac week01_20160919/src/ex/ex01_1050210XX.java
+  - cd week01_20160919/src/ex/
+  - javac ex01_1050210XX.java
   - ls -a
-  - java week01_20160919/src/ex/ex01_1050210XX.java < data.txt
-  - java week01_20160919/src/ex/ex01_1050210XX < data.txt
   - java ex01_1050210XX < data.txt
   - ant main < data.txt
