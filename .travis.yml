@@ -4,4 +4,4 @@ script:
   - javac ex01_1050210XX.java
   - ls -a
   - java ex01_1050210XX < data.txt
-  - ant main < data.txt
+
