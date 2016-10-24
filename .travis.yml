@@ -5,5 +5,6 @@ script:
   - ls -a
   - cp -r TestingData/Testzone/ week01_20160919/bot/
   - cd week01_20160919/
-  - chmod +x ../bot/test.sh
-  - ./../bot/test.sh
+  - ./bot/test.sh
+  - chmod +x bot/test.sh
+  - ./bot/test.sh
