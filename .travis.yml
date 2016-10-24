@@ -3,6 +3,6 @@ script:
   - pwd
   - git clone https://github.com/csie-asia-Java-Programming-1/TestingData.git
   - ls -a
-  - cp TestingData/Testzone/ week01_20160919/bot/
+  - cp -r TestingData/Testzone/ week01_20160919/bot/
   - cd week01_20160919/
   - sh ../bot/test.sh
