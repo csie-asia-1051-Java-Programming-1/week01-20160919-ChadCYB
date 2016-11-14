@@ -5,3 +5,4 @@ script:
   - cd week01_20160919/
   - chmod +x bot/test.sh
   - ./bot/test.sh
+  - ./bot/test2.sh
