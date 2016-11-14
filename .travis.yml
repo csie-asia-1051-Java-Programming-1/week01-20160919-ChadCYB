@@ -1,8 +1,7 @@
 language: java
-sudo: required
 script:
   - git clone https://github.com/csie-asia-Java-Programming-1/TestingData.git
   - cp -r TestingData/Testzone/ week01_20160919/bot/
   - cd week01_20160919/
-  - chmod +x bot/test.sh
+  - chmod +x bot/test2.sh
   - ./bot/test2.sh
